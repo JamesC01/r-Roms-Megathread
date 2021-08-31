@@ -7,10 +7,10 @@ Links to other stuff<br/>
 
 - |**MAME ROMs/CHDs**|**Links**|
 | ------ | ------ |
-| MAME 0.234 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
-| MAME 0.234 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.234 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
-| HBMAME 0.234 ROMs Merged | [Link](http://90.230.15.92/HBMAME%200.234/) |
+| MAME 0.235 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
+| MAME 0.235 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.235 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
+| HBMAME 0.235 ROMs Merged | [Link](http://90.230.15.92/HBMAME%200.235/) |
 | MAME Support | [Link](https://archive.org/download/mame-support/Support/) |
 <!--- 
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
@@ -34,12 +34,12 @@ FinalBurn Neo
 
 - |**Romsets**|**Links**|
 | ------ | ------ |
-| No-Intro Collection 2021 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (requires an archive.org account to view and download) |
+| No-Intro Collection 2021 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (requires an archive.org account to download) |
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | mobasuite.com No-Intro | [Link](http://90.230.15.92/) |
 | GoodSets | [Link](https://1fichier.com/dir/ugDwQd8N) |
 | TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
-| Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) (requires an archive.org account to view and download) |
+| Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
 | EverDrive - MSU-MD Audio Enhancement ROMs | [Link](https://archive.org/download/msu_md_sega) |

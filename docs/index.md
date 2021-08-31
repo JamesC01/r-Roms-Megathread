@@ -1,5 +1,9 @@
 ### **Rom Center Markdown Edition 2021**<br/>
 
+<br/>
+### **Retro games (such as Nitendo 64, Sega Genesis, NES etc.) can be found in the [Others Tab](/megathread/other)**
+
+
 ##<br/>**How to use:**
 - ##### Use the buttons at the top to navigate the megathread.
 - ##### Retro games, Arcade games and more can be found in the [Others Tab](/megathread/other)<br/>
