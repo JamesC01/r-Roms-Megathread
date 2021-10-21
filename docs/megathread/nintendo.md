@@ -19,7 +19,7 @@ DS Download Play
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
-| No-Intro Nintendo DS (Download Play) (2019-08-25) | [Link](https://archive.org/download/nintendodsdownloadplay) | 
+| No-Intro Nintendo DS (Download Play) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-download-play) | 
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
@@ -29,7 +29,7 @@ DSi
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
-| No-Intro Nintendo DSi (Decrypted) (2019-05-03) | [Link](https://archive.org/download/nintendodsidecrypted) |
+| No-Intro Nintendo DSi (Decrypted) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-dsi-decrypted) |
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
@@ -39,7 +39,7 @@ DSiWare
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
-| No-Intro Nintendo DSi (Digital) (2019-08-13) | [Link](https://archive.org/download/nintendodsiware) |
+| No-Intro Nintendo DSi (Digital) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-dsi-digital) |
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
@@ -51,6 +51,10 @@ DSiWare
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
 | hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
+
+- |**Mega: ALL**|**Links**|
+| ------ | ------ |
+| 3DS ROMs | [Link](https://drive.google.com/file/d/1r1CS6UVPLafPbCFM7sjF1baupsEr5APH/view) (This contains megalinks, read the top of the document for instructions) |
 
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
@@ -65,13 +69,9 @@ DSiWare
 | Nintendo 3DS Complete Collection .3ds [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
 | Nintendo 3DS DLC and Updates Encrypted | [Link](https://archive.org/download/no-intro-nintendo-nintendo-3ds-digital-updates-and-dlc-encrypted) |
 
-- |**Mega: ALL**|**Links**|
-| ------ | ------ |
-| 3DS ROMs| [Link](https://drive.google.com/file/d/1r1CS6UVPLafPbCFM7sjF1baupsEr5APH/view) (This contains megalinks, read the top of the document for instructions) |
-
 - **.3ds/.cia Decryption Instructions:**
 
-If Citra says the roms are encrypted, use either download [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt.
+If Citra says the roms are encrypted, use either download [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt. If you would like to get a proper No-Intro hash from the converted file try [This More Advanced Tool](https://anonfiles.com/Fb7fw8Xcob/3DS_CIA_Rom_Script_rar).
 
 Or add the following AES keys to CitraAES Keys for Citra, [Pastebin Link](https://pastebin.com/tBY6RHh4)
 Click download on Pastebin to download the text in this file as a .txt file.
