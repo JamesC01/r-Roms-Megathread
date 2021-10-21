@@ -8,8 +8,11 @@ DS
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
-| No-Intro - Nintendo DS (Decrypted) (2021-07-08) (Requires an archive.org account to download from) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20210708-124605) |
+| Nintendo DS (Decrypted) (2021-07-24) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-decrypted) |
 | No-Intro - Nintendo - Nintendo DS (Decrypted) (20200120-125458) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
+
+- |**Other: ALL**|**Links**|
+| ------ | ------ |
 | mobasuite.com No-Intro Nintendo DS (Decrypted) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS/) |
 
 DS Download Play
@@ -17,6 +20,9 @@ DS Download Play
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DS (Download Play) (2019-08-25) | [Link](https://archive.org/download/nintendodsdownloadplay) | 
+
+- |**Other: ALL**|**Links**|
+| ------ | ------ |
 | mobasuite.com No-Intro Nintendo DS (Download Play) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS%20(Download%20Play)/) | 
 
 DSi
@@ -24,6 +30,9 @@ DSi
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DSi (Decrypted) (2019-05-03) | [Link](https://archive.org/download/nintendodsidecrypted) |
+
+- |**Other: ALL**|**Links**|
+| ------ | ------ |
 | mobasuite.com No-Intro Nintendo DSi (Decrypted) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DSi) |
 
 DSiWare
@@ -31,6 +40,9 @@ DSiWare
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
 | No-Intro Nintendo DSi (Digital) (2019-08-13) | [Link](https://archive.org/download/nintendodsiware) |
+
+- |**Other: ALL**|**Links**|
+| ------ | ------ |
 | mobasuite.com No-Intro Nintendo DSi (Digital) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DSi%20(Digital)/) |
 
 ## **Nintendo 3DS**<br/>
@@ -51,7 +63,7 @@ DSiWare
 | Nintendo 3DS eShop Complete Collection .cia/.3ds | [Link](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
-| Nintendo 3DS DLC and Updates Encrypted | [Link](https://archive.org/download/3ds-dlc-and-updates-encrypted) |
+| Nintendo 3DS DLC and Updates Encrypted | [Link](https://archive.org/download/no-intro-nintendo-nintendo-3ds-digital-updates-and-dlc-encrypted) |
 
 - |**Mega: ALL**|**Links**|
 | ------ | ------ |

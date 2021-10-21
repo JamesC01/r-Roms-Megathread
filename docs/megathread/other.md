@@ -5,13 +5,14 @@ Links to other stuff<br/>
 
 <br/>MAME
 
-- |**MAME ROMs/CHDs**|**Links**|
+- |**MAME**|**Links**|
 | ------ | ------ |
-| MAME 0.235 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
-| MAME 0.235 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.235 ROMs Merged | [Link](https://archive.org/download/mame-0.231-merged) |
-| HBMAME 0.235 ROMs Merged | [Link](http://90.230.15.92/HBMAME%200.235/) |
-| MAME Support | [Link](https://archive.org/download/mame-support/Support/) |
+| MAME 0.236 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
+| MAME 0.236 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.236 ROMs Merged | [Link](https://archive.org/download/mame-merged/mame-merged/) |
+| MAME 0.236 BIOS Sets | [Link](https://archive.org/download/mame-merged/BIOS/)) |
+| HBMAME 0.236 ROMs Merged | [Link](http://90.230.15.92/HBMAME/) |
+| MAME Support Files | [Link](https://archive.org/download/mame-support/Support/) |
 <!--- 
 | HBMAME 0.230 ROMs Merged | [Link](https://archive.org/download/hbmame-0.230-merged/HBmame%200.230%20%28Merged%29/) |
 | Update HBMAME ROMs (0.230 -> 0.231) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200231%20rom%20update/) |
@@ -78,9 +79,11 @@ archive.org Redump
 - |**System**|**Links**|
 | ------ | ------ |
 | Atari Jaguar CD Interactive Multimedia System | [Link](https://archive.org/download/redump.jaguar.revival) |
+| Bandai - Pippin | [Link](https://archive.org/download/redump-bandai-pippin) |
 | Fujitsu - FM-Towns | [Link](https://archive.org/details/redump.fm.revival) |
 | NEC - PC Engine CD & TurboGrafx CD | [Link](https://archive.org/download/redump.pce.revival) |
 | NEC - PC-FX & PC-FXGA | [Link](https://archive.org/download/redump.pcfx.revival) |
+| NEC - PC9800 | [Link](https://archive.org/download/redump.pc98.revival)
 | Panasonic - 3DO Interactive Multiplaye | [Link](https://archive.org/download/redump.3DO.revival) |
 | Philips - CD-i | [Link](https://archive.org/download/redump.cdi.revival) |
 | Photo CD | [Link](https://archive.org/download/redump.photo.revival) |
