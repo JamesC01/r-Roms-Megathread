@@ -31,6 +31,7 @@ Links to PC stuff i guess<br/>
 - |**Other**|**Links**|
 | ------ | ------ |
 | /r/PiratedGames Megathread | [Link](https://rentry.org/pgames-mega-thread) |
+| Doom WADs | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
 
 - |**Redump IBM PC Compatibles**|**Links**|
 | ------ | ------ |

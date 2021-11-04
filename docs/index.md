@@ -1,12 +1,12 @@
 ### **Rom Center Markdown Edition 2021**<br/>
 
 <br/>
-### **Retro games (such as Nintendo 64, Sega Genesis, NES etc.) can be found in the [Others Tab](/megathread/other)**
+### **Retro games (such as Nintendo 64, Sega Genesis, NES etc.) can be found in the [Retro Tab](/megathread/retro)**
 
 
 ##<br/>**How to use:**
 - ##### Use the buttons at the top to navigate the megathread.
-- ##### Retro games, Arcade games and more can be found in the [Others Tab](/megathread/other)<br/>
+- ##### Retro games, Arcade games and more can be found in the [Retro Tab](/megathread/retro)<br/>
 - ##### Common games can be found in the [Popular Tab](/megathread/popular)
 
 ##<br/>**Tips**

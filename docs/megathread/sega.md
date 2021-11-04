@@ -1,7 +1,7 @@
 # SEGA Tab
 Links to SEGA ROMs<br/>
 
-Older systems can be found in the [Others Tab](/megathread/other)<br/>
+Older systems can be found in the [Retro Tab](/megathread/retro)<br/>
 
 ## **Sega Dreamcast**<br/>
 <br/>Dreamcast
@@ -9,7 +9,7 @@ Older systems can be found in the [Others Tab](/megathread/other)<br/>
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
 | Redump Sega Dreamcast .CUE/.BIN | [Link](https://archive.org/download/redump.dc.revival) |
-| Redump Sega Dreamcast .CHD | [Link](https://archive.org/download/chd_dc/CHD-Dreamcast/) |
+| Redump Sega Dreamcast .CHD | [Link](https://archive.org/download/chd_dc/CHD-DC/) |
 | Dreamcast Uploaded by Ghostware | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
 | Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
 | TOSEC Dreamcast USA GDI | [Link](https://archive.org/download/tosecdcus20190822) |

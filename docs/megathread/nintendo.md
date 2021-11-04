@@ -1,6 +1,6 @@
 # Nintendo Tab
 
-##### Nintendo 64 and older can be found in the [Others Tab](/megathread/other)<br/>
+##### Nintendo 64 and older can be found in the [Retro Tab](/megathread/retro)<br/>
 <br/>
 
 ## **Nintendo DS**<br/>
@@ -9,7 +9,8 @@ DS
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
 | Nintendo DS (Decrypted) (2021-07-24) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-decrypted) |
-| No-Intro - Nintendo - Nintendo DS (Decrypted) (20200120-125458) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
+| Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
+| Nintendo DS (Decrypted) (2021-10-25) | [Link](https://archive.org/download/nintendo-nintendo-ds-decrypted-20211025-053001) |
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
@@ -115,7 +116,6 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 ## **Nintendo Wii**<br/>
 Wii
 
-
 - |**NKit Format**|**Links**|
 | ------ | ------ |
 | Internet Archive (NKit) Redump Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
@@ -129,21 +129,6 @@ Wii
 
 Works on Dolphin emulator but not on real hardware.
 If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2020429) to convert to ISO.
-
-- |**nNASOS Format**|**Links**|
-| ------ | ------ |
-| Internet Archive (nNASOS) Redump USA Part 1 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart1) |
-| Internet Archive (nNASOS) Redump USA Part 2 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart2) |
-| Internet Archive (nNASOS) Redump USA Part 3 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart3) |
-| Internet Archive (nNASOS) Redump USA Part 4 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart3_201802) |
-| Internet Archive (nNASOS) Redump USA Part 5 | [Link](https://archive.org/download/RedumpNintendoWiiAmericaPart5) |
-| Internet Archive (nNASOS) Redump USA Part 6 | [Link](https://archive.org/download/Httpsarchive.orgdetailsRedumpNintendoWiiAmericaPart6) |
-
-To extract from .dec files:
-Download https://archive.org/download/nNASOS1.8/nNASOS1.8.zip
-and extract the files into a folder.
-To extract a rom drag the rom onto the .exe.
-A command prompt should popup and extract the ISO from the .dec file.
 
 |Wiiware and Virtual Console| |
 | ------ | ------ |
@@ -162,7 +147,7 @@ Wii U
 | Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
 
-- |**Virtual Console NUS** (Note: these files aren't ROMs themselves, they are CDN (content delivery network) files for Virtual Console games on the WiiU. If you are looking for Retro ROMs go to the [Others Tab](/megathread/other) |**Links**|
+- |**Virtual Console NUS** (Note: these files aren't ROMs themselves, they are CDN (content delivery network) files for Virtual Console games on the WiiU. If you are looking for Retro ROMs go to the [Retro Tab](/megathread/retro) |**Links**|
 | ------ | ------ |
 | TurboGrafx-16 NUS | [Link](https://archive.org/download/wii-u-turbografx16-nus) |
 | Wii NUS | [Link](https://archive.org/download/wii-u-wii-nus) |
