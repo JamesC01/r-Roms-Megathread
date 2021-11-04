@@ -1,4 +1,4 @@
-# Others Tab
+# Retro Tab
 Links to retro stuff<br/>
 
 ## **Arcade**<br/>
