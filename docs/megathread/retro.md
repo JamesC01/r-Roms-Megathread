@@ -19,6 +19,10 @@ Links to retro stuff<br/>
 | Update HBMAME ROMs (0.231 -> 0.232) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200232%20rom%20update/) |
 | Update HBMAME ROMs (0.232 -> 0.233) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.233%20rom%20update/) |
 | Update HBMAME ROMs (0.233 -> 0.234) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.234%20rom%20update/) |
+| Update HBMAME ROMs (0.234 -> 0.235) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.235%20rom%20update/) |
+| Update HBMAME ROMs (0.235 -> 0.236) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.236%20rom%20update/) |
+| Update HBMAME ROMs (0.236 -> 0.237) | [Link](https://archive.org/download/hbmame-0.230-merged/HBMAME%200.237%20rom%20update/) |
+
 --->
 
 FinalBurn Neo
@@ -39,7 +43,9 @@ FinalBurn Neo
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | mobasuite.com repo | [Link](http://90.230.15.92/) |
 | GoodSets | [Link](https://archive.org/details/@gudset) |
-| TOSEC 2018-12-27 | [Link](https://archive.org/download/TOSEC_Main_Branch_Release_2018-12-27) |
+| TOSEC (2021-02-14) | [Link](https://archive.org/download/tosec-2021-02-14-safe) |
+| Update TOSEC (2021-02-14 -> 2021-08-08) | [Link](https://archive.org/download/tosec-2021-02-14-to-2021-08-08-update/TOSEC%20%282021-02-14%20to%202021-08-08%29/) |
+| TOSEC Nintendo (2021-08-08) | 
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
@@ -49,7 +55,7 @@ FinalBurn Neo
 | EverDrive - MD+ Audio Enhancement ROMs | [Link](https://archive.org/download/sega-mega-drive-md_202110) |
 | SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/nintendo-snes-msu1) |
 
-archive.org No-Intro
+Internet Archive No-Intro
 
 - |**System**|**Links**|
 | ------ | ------ |
@@ -74,7 +80,7 @@ archive.org No-Intro
 | Sega - Master System - Mark III | [Link](https://archive.org/download/nointro.ms-mkiii) |
 | Sega - Mega Drive - Genesis | [Link](https://archive.org/download/nointro.md) |
 
-archive.org Redump
+Internet Archive Redump
 
 - |**System**|**Links**|
 | ------ | ------ |
@@ -100,5 +106,5 @@ archive.org Redump
 | ------ | ------ |
 | RetroArch BIOS| [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 | Redump BIOS | [Link](https://archive.org/download/2019_11_25_redump_bios) |
-| BIOS for pretty much anything | [Link](https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA) |
+| Large BIOS Collection | [Link](https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA) |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |

@@ -16,7 +16,9 @@ PS1
 | PS1 Redump .CUE/.BIN Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
 | PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
 | PS1 Redump .CHD USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) |
+<!--- 
 | PS1 Redump .CHD EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
+---> 
 | PS1 Redump .CHD JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
 | PS1 Redump .CHD JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
 | PS1 Redump .CHD Misc | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |
@@ -123,6 +125,11 @@ PS3
 | PS3 Games (S - T) | [Link](https://archive.org/download/PS3_ALVRO_PART_9) |
 | PS3 Games (T) | [Link](https://archive.org/download/PS3_ALVRO_PART_10) |
 | PS3 Games (T - Z) | [Link](https://archive.org/download/PS3_ALVRO_PART_11) |
+
+- |**Other: All**|**Links**|
+| ------ | ------ |
+| joshw.info PS3 Games | [Link](https://psf3.joshw.info/) |
+
 
 ## **Sony Playstation Vita**<br/>
 PS Vita

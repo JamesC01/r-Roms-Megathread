@@ -52,7 +52,7 @@ DSiWare
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
 | hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
-
+| joshw.info 3DS Games | [Link](https://3sf.joshw.info/) |
 - |**Mega: ALL**|**Links**|
 | ------ | ------ |
 | 3DS ROMs | [Link](https://drive.google.com/file/d/1r1CS6UVPLafPbCFM7sjF1baupsEr5APH/view) (This contains megalinks, read the top of the document for instructions) |
@@ -116,21 +116,27 @@ If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2
 ## **Nintendo Wii**<br/>
 Wii
 
-- |**NKit Format**|**Links**|
+- |**Internet Archive: NKit Format**|**Links**|
 | ------ | ------ |
-| Internet Archive (NKit) Redump Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
-| Internet Archive (NKit) Redump Part 2 | [Link](https://archive.org/download/WiiRedumpNKitPart2) |
-| Internet Archive (NKit) Redump Part 3 | [Link](https://archive.org/download/WiiRedumpNKitPart3) |
-| Internet Archive (NKit) Redump Part 4 | [Link](https://archive.org/download/WiiRedumpNKitPart4) |
-| Internet Archive (NKit) Redump Part 5 | [Link](https://archive.org/download/WiiRedumpNKitPart5) |
-| Internet Archive (NKit) Redump Part 6 | [Link](https://archive.org/download/WiiRedumpNKitPart6) |
-| Internet Archive (NKit) Redump Part 7 | [Link](https://archive.org/download/WiiRedumpNKitPart7) |
-| Internet Archive (NKit) Redump Part 8 | [Link](https://archive.org/download/WiiRedumpNKitPart8) |
+| NKit Redump Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
+| NKit Redump Part 2 | [Link](https://archive.org/download/WiiRedumpNKitPart2) |
+| NKit Redump Part 3 | [Link](https://archive.org/download/WiiRedumpNKitPart3) |
+| NKit Redump Part 4 | [Link](https://archive.org/download/WiiRedumpNKitPart4) |
+| NKit Redump Part 5 | [Link](https://archive.org/download/WiiRedumpNKitPart5) |
+| NKit Redump Part 6 | [Link](https://archive.org/download/WiiRedumpNKitPart6) |
+| NKit Redump Part 7 | [Link](https://archive.org/download/WiiRedumpNKitPart7) |
+| NKit Redump Part 8 | [Link](https://archive.org/download/WiiRedumpNKitPart8) |
 
 Works on Dolphin emulator but not on real hardware.
-If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2020429) to convert to ISO.
+If using real hardware, use [this](https://archive.org/compress/NKitFullyLoaded2020429) to convert to ISO. If the download is too slow you can grab the software from [here](https://gbatemp.net/download/nkit.36157/) and get the recovery partitions from the [MarioCube Repository](https://drive.google.com/drive/folders/1w7U6O8weVwyHt-aT7ugwA5UDJurT2Jin?usp=sharing).
 
-|Wiiware and Virtual Console| |
+- |**Google Drive: ISO Format**|**Links**|
+| ------ | ------ |
+| Wii ISO USA | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
+| Wii ISO Japan | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
+| Wii ISO Europe | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
+
+- | Wiiware and Virtual Console| |
 | ------ | ------ |
 | Google Drive | [Link](https://drive.google.com/drive/folders/1ZpX5Nh4BNzWDvpXJJuqVlX2Qz7xpwpVU) |
 
