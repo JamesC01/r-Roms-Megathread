@@ -53,6 +53,7 @@ DSiWare
 | ------ | ------ |
 | hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
 | joshw.info 3DS Games | [Link](https://3sf.joshw.info/) |
+
 - |**Mega: ALL**|**Links**|
 | ------ | ------ |
 | 3DS ROMs | [Link](https://drive.google.com/file/d/1r1CS6UVPLafPbCFM7sjF1baupsEr5APH/view) (This contains megalinks, read the top of the document for instructions) |
@@ -153,7 +154,7 @@ Wii U
 | Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
 
-- |**Virtual Console NUS** (Note: these files aren't ROMs themselves, they are CDN (content delivery network) files for Virtual Console games on the WiiU. If you are looking for Retro ROMs go to the [Retro Tab](/megathread/retro) |**Links**|
+- |**Virtual Console NUS**|**Links**|
 | ------ | ------ |
 | TurboGrafx-16 NUS | [Link](https://archive.org/download/wii-u-turbografx16-nus) |
 | Wii NUS | [Link](https://archive.org/download/wii-u-wii-nus) |
@@ -163,3 +164,5 @@ Wii U
 | Nintendo DS NUS | [Link](https://archive.org/download/wii-u-nintendo-ds-nds-nus) |
 | Gameboy Advance NUS | [Link](https://archive.org/download/wii-u-gameboy-advance-nus) |
 | Retail Game Disc NUS | [Link](https://archive.org/download/wii-u-retail-game-disc-nus-usa) |
+
+Note: these files aren't ROMs themselves, they are CDN (content delivery network) files for Virtual Console games on the WiiU. If you are looking for Retro ROMs go to the [Retro Tab](/megathread/retro)

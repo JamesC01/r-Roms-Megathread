@@ -1,6 +1,9 @@
 # Sony Tab
 Links to Sony ROMs<br/>
 
+## **NoPayStation**<br/>
+[NoPayStation](https://nopaystation.com/) is pretty much the best and fastest source for PSP, PS3 and PSVita content. It is a database of links to games from Sony's CDN itself along with decryption keys so you can use the files. It is highly recommended you check here before using any of these links.
+
 ## **Sony Playstation**<br/>
 PS1
 
@@ -14,14 +17,14 @@ PS1
 | PS1 Redump .CUE/.BIN Part 1 | [Link](https://archive.org/download/redump.psx) |
 | PS1 Redump .CUE/.BIN Part 2 | [Link](https://archive.org/download/redump.psx.p2) |
 | PS1 Redump .CUE/.BIN Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
-| PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
-| PS1 Redump .CHD USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) |
-<!--- 
+| PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) | 
 | PS1 Redump .CHD EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
----> 
 | PS1 Redump .CHD JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
 | PS1 Redump .CHD JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
 | PS1 Redump .CHD Misc | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |
+<!--- 
+| PS1 Redump .CHD USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
+--->
 
 ## **Sony Playstation 2**<br/>
 PS2
@@ -73,20 +76,28 @@ PS2
 | Redump PS2 Japan Part 2 | [Link](https://archive.org/download/redump-ps2-jpn-part2) |
 | Redump PS2 Japan Part 3 | [Link](https://archive.org/download/redump-ps2-jpn-part3) |
 
+- |**Other: All**|**Links**|
+| ------ | ------ |
+| joshw.info PS2 Games | [Link](https://psf2.joshw.info/) |
+
 ## **Sony Playstation Portable**<br/>
 PSP
 
-- |**Internet Archive: ALL**|**Links**|
+- |**Internet Archive: All**|**Links**|
 | ------ | ------ |
 | Redump PSP ISO Part 1 | [Link](https://archive.org/download/redump.psp) |
 | Redump PSP ISO Part 2 | [Link](https://archive.org/download/redump.psp.p2) |
 | PSP DLC (Alvro Files) | [Link](https://archive.org/download/PSP_DLC) |
 | PSP DLC | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
 
+- |**Other: All**|**Links**|
+| ------ | ------ |
+| joshw.info PSP Games | [Link](https://psp.joshw.info/) |
+
 ## **Sony Playstation 3**<br/>
 PS3
 
-- |**Internet Archive: All**|**Links**|
+- |**Internet Archive: USA**|**Links**|
 | ------ | ------ |
 | PS3 No-Intro USA Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_USA_1) |
 | PS3 No-Intro USA Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_USA_2) |
@@ -98,6 +109,9 @@ PS3
 | PS3 No-Intro USA Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_USA_8) |
 | PS3 No-Intro USA Part 9 | [Link](https://archive.org/download/PS3_NOINTRO_USA_9) |
 | PS3 No-Intro USA Part 10 | [Link](https://archive.org/download/PS3_NOINTRO_USA_10) |
+
+- |**Internet Archive: EUR**|**Links**|
+| ------ | ------ |
 | PS3 No-Intro EUR Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_1) |
 | PS3 No-Intro EUR Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_2) |
 | PS3 No-Intro EUR Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_3) |
@@ -106,12 +120,18 @@ PS3
 | PS3 No-Intro EUR Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_6) |
 | PS3 No-Intro EUR Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_7) |
 | PS3 No-Intro EUR Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_8) |
+
+- |**Internet Archive: JAP**|**Links**|
+| ------ | ------ |
 | PS3 No-Intro JAP Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_1) |
 | PS3 No-Intro JAP Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_2) |
 | PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
 | PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
 | PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
 | PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
+
+- |**Internet Archive: All**|**Links**|
+| ------ | ------ |
 | PS3 Games (# - C) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |
 | PS3 Games (C - D) | [Link](https://archive.org/download/PS3_ALVRO_PART_2) |
 | PS3 Games (C - D) (Other) | [Link](https://archive.org/download/PS3_ALVRO_PART_2_OTHER) |
@@ -134,10 +154,11 @@ PS3
 ## **Sony Playstation Vita**<br/>
 PS Vita
 
-- |**Internet Archive: ALL**|**Links**|
+- |**Internet Archive: All**|**Links**|
 | ------ | ------ |
 | PSVITA VPK | [Link](https://archive.org/download/PSVITA_VPK) |
 | PSVITA MAIDUMP | [Link](https://archive.org/download/PSVITA_MAIDUMP)
 
-## **For More Games/Updates/DLCs**<br/>
-If you still cannot find what you are looking for, check [NoPayStation](https://nopaystation.com/). NoPayStation has PSP, PS3 and PS Vita content.
+- |**Other: All**|**Links**|
+| ------ | ------ |
+| joshw.info PS Vita Games | [Link](https://vita.joshw.info/) |

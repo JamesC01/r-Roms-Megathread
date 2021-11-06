@@ -3,7 +3,7 @@ Links to retro stuff<br/>
 
 ## **Arcade**<br/>
 
-<br/>MAME
+MAME
 
 - |**MAME**|**Links**|
 | ------ | ------ |
@@ -35,7 +35,7 @@ FinalBurn Neo
 
 ## **Romsets**<br/>
 
-<br/>Romsets
+Romsets
 
 - |**Romsets**|**Links**|
 | ------ | ------ |
