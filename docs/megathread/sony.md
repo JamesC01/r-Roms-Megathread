@@ -17,7 +17,8 @@ PS1
 | PS1 Redump .CUE/.BIN Part 1 | [Link](https://archive.org/download/redump.psx) |
 | PS1 Redump .CUE/.BIN Part 2 | [Link](https://archive.org/download/redump.psx.p2) |
 | PS1 Redump .CUE/.BIN Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
-| PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) | 
+| PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
+| PS1 Redump .CHD USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/)
 | PS1 Redump .CHD EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
 | PS1 Redump .CHD JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
 | PS1 Redump .CHD JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
